@@ -1,6 +1,11 @@
-// Manna is extremely disappointed to find out that no one in his college knows his first name. Even his classmates call him only by his last name. Frustrated, he decides to make his fellow college students know his first name by forcing them to solve this question.
+// https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/mannas-first-name-4/description/?layout=old
 
-// You are given a long string as input in each testcase, containing any ASCII character. Your task is to find out the number of times SUVO and SUVOJIT appears in it.
+// Manna is extremely disappointed to find out that no one in his college knows his first name.
+// Even his classmates call him only by his last name. Frustrated,
+//he decides to make his fellow college students know his first name by forcing them to solve this question.
+
+// You are given a long string as input in each testcase, containing any ASCII character.
+// Your task is to find out the number of times SUVO and SUVOJIT appears in it.
 
 // Note: This problem must be solved in C language only.
 
